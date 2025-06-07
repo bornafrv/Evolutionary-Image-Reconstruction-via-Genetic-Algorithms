@@ -4,25 +4,6 @@ This project implements a genetic algorithm to reconstruct target images by evol
 
 ---
 
-## 📂 Project Structure
-
-- `AI_CA2_Notebook.ipynb`  
-  Main notebook implementing the entire pipeline: initialization, fitness evaluation, genetic operations, and visualization.
-
-- `Instruction.pdf`  
-  Detailed project guidelines, objectives, and requirements.
-
-- `Report.pdf`  
-  Comprehensive report with methodology, algorithm analysis, performance discussion, and results.
-
-- `README.md`  
-  This file — overview and usage instructions.
-
-- `target_images.zip`  
-  A collection of reference images used for reconstruction. Must be extracted before running the notebook.
-
----
-
 ## ⚙️ Key Features
 
 ### 🎯 Fitness-Driven Approximation
